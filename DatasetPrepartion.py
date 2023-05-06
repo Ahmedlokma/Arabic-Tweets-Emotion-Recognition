@@ -2,7 +2,7 @@ import os
 import csv
 
 # Path to the directory containing the txt files
-dir_path = '/Users/ahmedlokma/Desktop/neg'
+dir_path = '/Users/ahmedlokma/Desktop/pos'
 
 
 # Output CSV file name
